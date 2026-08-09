@@ -43,13 +43,7 @@
 
 ### 📌 Featured Project
 
-<a href="https://one-geo-anubhav.onrender.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=10done&repo=One-Geo-Anubhav&theme=default" />
-</a>
-
 **Well Log Pro** — a full-stack platform for analyzing geological documents, integrating the Gemini API. [Live demo →](https://one-geo-anubhav.onrender.com)
-
-<br clear="left"/>
 
 ---
 
@@ -68,7 +62,7 @@
     <img height="200" src="https://leetcard.jacoblin.cool/Anubhav10done?ext=contest&theme=light" alt="LeetCode Contest Rating" />
   </a>
   <a href="https://codeforces.com/profile/Anubhav_Tandon">
-    <img height="200" src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Anubhav_Tandon&v2&theme=default" alt="Codeforces Rating History" />
+    <img height="200" src="https://raw.githubusercontent.com/10done/10done/main/assets/codeforces-rating.svg" alt="Codeforces Rating History" />
   </a>
 </p>
 
@@ -77,12 +71,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=10done&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10done&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=10done&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=10done&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=10done&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=10done&hide_border=true" />
 </p>
 
 ---
