@@ -4,7 +4,8 @@
 <p align="center">
   <a href="https://10doneportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10doneportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anubhav-tandon-9b8737245/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-~1728-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Anubhav10done/"><img src="https://img.shields.io/badge/LeetCode-1726-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Anubhav_Tandon"><img src="https://img.shields.io/badge/Codeforces-1282-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,6 +24,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -56,6 +58,19 @@
 - **Flagsmith** — merged a fix for a project-admin metadata permissions bug ([PR #7518](https://github.com/Flagsmith/flagsmith/pull/7518))
 - **AsyncAPI Generator** — merged a `HandleError` component for the Dart WebSocket template ([PR #2095](https://github.com/asyncapi/generator/pull/2095))
 - **AsyncAPI Generator** — added `registerOutgoingProcessor` to the JS WebSocket client ([PR #2101](https://github.com/asyncapi/generator/pull/2101))
+
+---
+
+### 🧠 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/Anubhav10done/">
+    <img height="200" src="https://leetcard.jacoblin.cool/Anubhav10done?ext=contest&theme=light" alt="LeetCode Contest Rating" />
+  </a>
+  <a href="https://codeforces.com/profile/Anubhav_Tandon">
+    <img height="200" src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Anubhav_Tandon&v2&theme=default" alt="Codeforces Rating History" />
+  </a>
+</p>
 
 ---
 
