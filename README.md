@@ -12,10 +12,8 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science Graduate from **IIT Jodhpur** (2026)
-- 💼 Backend engineering & customer support experience at **Skyportal.ai**
+- 💼 Backend engineering experience at **Skyportal.ai**
 - 🌱 Active open source contributor to **AsyncAPI Initiative**, **Open Science Labs**, and **Flagsmith**
-- 🎯 Pursuing **LFX Mentorship (Term 3, Sep–Nov 2026)** — targeting KubeStellar, AsyncAPI, and Flagsmith
-- 🔭 Currently building **Well Log Pro** — a full-stack geological document analysis platform powered by the Gemini API
 - 📍 Based in Chandigarh, India — open to **remote roles at startups in Europe & the US**
 - ⚽ PS: I love Manchester United.
 
