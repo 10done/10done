@@ -59,13 +59,9 @@
 ### 🧠 Competitive Programming
 
 <p align="center">
-  <a href="https://takeuforward.org/profile/10done"><img src="https://img.shields.io/badge/takeUforward-353%20solved-E45A3C?style=for-the-badge" /></a>
-  <img src="https://img.shields.io/badge/Easy-104-00b8a3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-138-ffc01e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hard-111-ff375f?style=for-the-badge" />
-</p>
-
-<p align="center">
+  <a href="https://takeuforward.org/profile/10done">
+    <img height="200" src="https://tuf-stats.tashif.codes/10done/stats/svg?theme=light" alt="takeUforward Stats" />
+  </a>
   <a href="https://leetcode.com/u/Anubhav10done/">
     <img height="200" src="https://leetcard.jacoblin.cool/Anubhav10done?ext=contest&theme=light&cache=0" alt="LeetCode Contest Rating" />
   </a>
