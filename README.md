@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://10doneportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10doneportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anubhav-tandon-9b8737245/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Anubhav10done/"><img src="https://img.shields.io/badge/LeetCode-1726-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/Anubhav_Tandon"><img src="https://img.shields.io/badge/Codeforces-1282-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Anubhav10done/"><img src="https://img.shields.io/badge/LeetCode-1781-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Anubhav_Tandon"><img src="https://img.shields.io/badge/Codeforces-1374-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,10 +59,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Anubhav10done/">
-    <img height="200" src="https://leetcard.jacoblin.cool/Anubhav10done?ext=contest&theme=light" alt="LeetCode Contest Rating" />
+    <img height="200" src="https://leetcard.jacoblin.cool/Anubhav10done?ext=contest&theme=light&cache=0" alt="LeetCode Contest Rating" />
   </a>
   <a href="https://codeforces.com/profile/Anubhav_Tandon">
-    <img height="200" src="https://raw.githubusercontent.com/10done/10done/main/assets/codeforces-rating.svg" alt="Codeforces Rating History" />
+    <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=Anubhav_Tandon" alt="Codeforces Stats" />
   </a>
 </p>
 
