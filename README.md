@@ -42,9 +42,7 @@
 
 ---
 
-### 📌 Featured Project
 
-**Well Log Pro** — a full-stack platform for analyzing geological documents, integrating the Gemini API. [Live demo →](https://one-geo-anubhav.onrender.com)
 
 ---
 
