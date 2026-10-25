@@ -5,8 +5,7 @@
   <a href="https://10doneportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10doneportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anubhav-tandon-9b8737245/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://takeuforward.org/profile/10done"><img src="https://img.shields.io/badge/takeUforward-353%20solved-E45A3C?style=for-the-badge" /></a>
-  <a href="https://leetcode.com/u/Anubhav10done/"><img src="https://img.shields.io/badge/LeetCode-1781-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/Anubhav_Tandon"><img src="https://img.shields.io/badge/Codeforces-1374-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Anubhav_Tandon"><img src="https://img.shields.io/badge/Codeforces-1426-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
