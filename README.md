@@ -15,7 +15,7 @@
 
 - 🎓 Computer Science Graduate from **IIT Jodhpur** (2026)
 - 💼 Backend engineering experience at **Skyportal.ai**
-- 💼 Building Plate8.io
+- 💼 Building [Plate8.io](https://plate8.io)
 - 🌱 Active open source contributor and compiler developer
 - 📍 Based in Chandigarh, India — open to **remote roles at startups in Europe & the US**
 - ⚽ PS: I love Manchester United.
@@ -40,10 +40,6 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
-
----
-
-
 
 ---
 
