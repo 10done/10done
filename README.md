@@ -15,7 +15,8 @@
 
 - 🎓 Computer Science Graduate from **IIT Jodhpur** (2026)
 - 💼 Backend engineering experience at **Skyportal.ai**
-- 🌱 Active open source contributor to **AsyncAPI Initiative**, **Open Science Labs**, and **Flagsmith**
+- 💼 Building Plate8.io
+- 🌱 Active open source contributor and compiler developer
 - 📍 Based in Chandigarh, India — open to **remote roles at startups in Europe & the US**
 - ⚽ PS: I love Manchester United.
 
